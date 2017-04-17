@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Green_Shadow">
+
+	<Key ID="STR_TB_missionTitle_TB_GreenShadow">
+		<Original>Green Shadow</Original>
+		<English>Green Shadow</English>
+		<German>Green Shadow</German>
+		<Italian>Green Shadow</Italian>
+		<Spanish>Green Shadow</Spanish>
+		<French>Green Shadow</French>
+		<Czech>Green Shadow</Czech>
+		<Russian>Green Shadow</Russian>
+		<Polish>Green Shadow</Polish>
+		<Hungarian>Green Shadow</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_GreenShadow">
+		<Original>TacBF A&amp;S[T-10]: Green Shadow</Original>
+		<English>TacBF A&amp;S[T-10]: Green Shadow</English>
+		<German>TacBF A&amp;S[T-10]: Green Shadow</German>
+		<Italian>TacBF A&amp;S[T-10]: Green Shadow</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Green Shadow</Spanish>
+		<French>TacBF A&amp;S[T-10]: Green Shadow</French>
+		<Czech>TacBF A&amp;S[T-10]: Green Shadow</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Green Shadow</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Green Shadow</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Green Shadow</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
